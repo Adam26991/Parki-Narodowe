@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(23, 105, 23);
+    margin: 20px;
+    padding: 20px 300px;
+   
+}
+p {
+    margin: 20px;
+    padding: 0% 100px;
+    
+}
+Div {height: 250px;width: 400px;margin: 20px;padding: 20px 105px;}
+
+img {float: inline-end; margin:0px; padding: 50px 120px;}
+
+td, th { border: 1px solid black; width: 170px; height: 30px;}
+table {padding: 0px 120px; }
